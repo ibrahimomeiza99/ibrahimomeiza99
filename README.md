@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ibrahim Omeiza
-- 👀 I’m interested in offensive in the cyber ecosystem
-- 🌱 I’m currently learning Ethical Hacking by TCM Security and also upskilling in networking by Huawei Datacom
-- 💞️ I’m looking to collaborate on projects related to cybersecurity
+- 👀 I’m interested in the defensive aspect of cybersecurity
+- 🌱 I’m currently learning networking by Huawei Datacom
+- 💞️ I’m looking to collaborate on projects related to cybersecurity and networking
 - 📫 How to reach me: ibraimomeiza99@gmail.com 
 
 <!---
