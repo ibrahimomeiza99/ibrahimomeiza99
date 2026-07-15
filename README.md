@@ -1,8 +1,8 @@
 -  Hi, I’m Ibrahim Omeiza
--  I’m interested in the defensive aspect of cybersecurity
+-  I’m interested in both defensive and network security
 -  I’m currently learning networking by Huawei Datacom
 -  I’m looking to collaborate on projects related to cybersecurity and networking
--  You can follow my learning joourney @ https://github.com/ibrahimomeiza99/HCIA-Datacom-Journey.git
+-  You can follow my learning journey @ https://github.com/ibrahimomeiza99/HCIA-Datacom-Journey.git
 -  How to reach me: ibraimomeiza99@gmail.com 
 
 <!---
